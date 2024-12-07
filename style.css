@@ -23,7 +23,7 @@ body {
 	background-color: var(--slate-300);
 }
 
-.qr-main-container {
+main {
 	display: flex;
 	flex-direction: column;
 	background-color: var(--white);
@@ -48,10 +48,12 @@ body {
 .qr-heading-text {
 	font: var(--text-preset-1);
 	text-align: center;
+	color: var(--slate-900);
 }
 
 .qr-main-text {
 	font: var(--text-preset-2);
 	text-align: center;
 	letter-spacing: 0.2px;
+	color: var(--slate-500);
 }
