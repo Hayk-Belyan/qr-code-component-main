@@ -5,8 +5,8 @@
 	--blue-600: #2c7dfa;
 	--blue-500: #3685ff;
 	--white: #ffffff;
-	--text-preset-1: bold 22px/120% "Outfit", sans-serif;
-	--text-preset-2: 15px/140% "Outfit", sans-serif;
+	--text-preset-1: 700 22px/120% "Outfit", sans-serif;
+	--text-preset-2: 400 15px/140% "Outfit", sans-serif;
 }
 
 * {
